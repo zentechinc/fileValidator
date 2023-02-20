@@ -1,0 +1,14 @@
+{
+  "scanRoot": "z:/bench/target",
+  "correctExtensions": {
+    "remove": [
+      "!qb"
+    ],
+    "normalize": {
+      "jpg": [
+        "jpeg",
+        "jpeg"
+      ]
+    }
+  }
+}
